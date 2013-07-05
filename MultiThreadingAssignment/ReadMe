@@ -1,0 +1,23 @@
+
+
+
+Complete Program is Running Successfully including Grading Script and all Checking conditions given in grading script
+
+
+
+Running Commands for Warmup2
+
+Please use gmake instead of make.
+
+
+Below are running commands
+
+gmake warmup2
+
+warmup2
+
+warmup2 -t tsfile.txt
+
+
+
+
